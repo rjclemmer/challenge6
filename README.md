@@ -6,6 +6,10 @@ I was tasked with utilizing the the [5 Day Weather Forecast](https://openweather
 
 Aside from formatting and local storage issues, I have run into an issue with my API key. Working on my machine, the code deploys perfectly, but once deployed, the API ceases to work.
 
+## Link to site
+
+https://rjclemmer.github.io/challenge6/
+
 ## User Story
 
 ```
